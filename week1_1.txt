@@ -1,0 +1,13 @@
+Daniela Puchall
+Week 1 : Lab 1
+What I found interesting:
+
+1. Slack apps can have access to the full scope of the platform. They can help enhance and customize the Slack experience through a variety of features such as send messages, manage notifications, open modals, and interact with members of a Slack team page.
+2. I would like to learn more about how to best utilize the Workflow Builder.
+3. I think it is amazing how there are so many ways to customize and build a Slack App by utilizing the Bolt framework.
+
+What I found difficult to understand:
+
+1. The use of Bolt for multiple languages. How does the syntax change? Is there an advantage to using one language over another when developing a Slack app?
+2. If a programmer updates a feature of a Slack App, how are those changes reflected in the app/ how soon are those changes reflected in the app? Are there additional steps that need to be taken?
+3. Socket Mode ??
