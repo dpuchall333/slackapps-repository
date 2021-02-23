@@ -1,0 +1,17 @@
+Week 1 Part 3
+Daniela Puchall 
+
+Question: How does the Slack Events API handle Errors that may occur or 
+unexpected events?
+
+Answer:
+When an event occurs, Slack sends a request URL from which a return HTTP 
+response code of 200 OK is expected IF the event is successfully received.
+
+If there is a redirect necessary, HTTP 301 or 302 may be returned.
+In order for your app to stay active, there must be a response with 
+success conditions for at least 5% of events "delivered" to the app.
+The conditions under which an app will fail include: inability to
+ negotiate or validate the server's SSL certificate, the app waits longer 
+than 3 seconds to receive a valid response from the server, there are more 
+than 2 HTTP redirects, any response other than HTTP 2xx response.
