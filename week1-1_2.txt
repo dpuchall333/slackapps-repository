@@ -1,0 +1,12 @@
+Slack App:
+
+(1)An app to update users (teammates) on progress / anticipated goals set by team administer/manager every day. The individual user can respond with additional goals or updates to the list of goals.
+
+(2)For Research Groups: An app that keeps a repository/ keeps track of user recommended research paper or resources. As a member of a Slack group for science research groups and labs, recommended papers can get easily lost in the general channel. Having a separate channel or app to keep track of these recommendations could be really useful.
+
+(3)Group Presentation app that updates members of a channel when the presentation is edited and assigns users task that can be updated.
+
+Bot:
+(1)An app that reminds the user/ gives notifications for the next event on their google (or connected) calendar. Comments on where the "Event" is located and additional remarks would be included.
+
+(2) A bot to set reminders and put events in your calendar.
